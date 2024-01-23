@@ -13,8 +13,8 @@ application up and running.
 | encrypted_password  | string  | NOT NULL |          |
 | name                | string  | NOT NULL |          |
 | profile             | text    | NOT NULL |          |
-| posit               | string  |          | ex, NO TONIL |
-
+| position            | text    |          | ex, NO TONIL |
+| occupation          | text    |          |          |
 
 ### prototypesテーブル
 
