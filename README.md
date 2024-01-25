@@ -22,7 +22,7 @@ application up and running.
 | ----------    | -------     | -------  |
 | title         | string      |NOT NULL  |
 | catch_copy    | text        |NOT NULL  |
-| concept text  | NOT         |NULL      |
+| concept       | text        |NOT NULL  |
 | user          | references  |NOT NULL  |
 
 - ※imageはActivestorageで実装するため含まない
